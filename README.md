@@ -65,7 +65,7 @@ A **Feedforward Neural Network (FNN)** is used to learn these relationships auto
   - Predicted Salary  
 
 ### 🔗 Network Structure:
-    -4->6->1
+    4->6->1
 
 
 ---
